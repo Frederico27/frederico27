@@ -3,10 +3,17 @@
     <img src="https://github-readme-stats.vercel.app/api?username=frederico27&count_private=true&hide=issues&include_all_commits=true&bg_color=00462A&title_color=f6f7f8&text_color=e6e6e6"/>
   </p>
   <p herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,django,docker,git,js,linux,mongodb,mysql,nodejs,ts&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=laravel,go,django,docker,git,js,linux,mongodb,mysql,nodejs,ts&perline=6"/>
   </p>
   
   </br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frederico27&show_icons=true&locale=en&layout=compact" alt="frederico27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frederico27&show_icons=true&locale=en" alt="frederico27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frederico27&" alt="frederico27" /></p>
   
   <p>
     <em>
