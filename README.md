@@ -1,6 +1,8 @@
+<div align="center">
 <p herf="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=laravel,python,django,docker,git,js,linux,mongodb,mysql,nodejs,ts&perline=6"/>
 </p>
+</div>
 
 <div align="center">
 <p href="https://github.com/anuraghazra/github-readme-stats">
