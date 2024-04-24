@@ -3,14 +3,12 @@
 </p>
 
 <div align="center">
-  <p href="https://github.com/anuraghazra/github-readme-stats">
+<p href="https://github.com/anuraghazra/github-readme-stats">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frederico27&show_icons=true&locale=en&layout=compact" alt="mr-roma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frederico27&show_icons=true&locale=en" alt="mr-roma" /></p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=frederico27&count_private=true&hide=issues&include_all_commits=true&bg_color=#39a1ffA&title_color=f6f7f8&text_color=e6e6e6"/>
-  </p>
+ </p>
   
   </br>
   
