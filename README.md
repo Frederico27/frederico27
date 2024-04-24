@@ -5,14 +5,12 @@
 </div>
 
 <div align="center">
-<p href="https://github.com/anuraghazra/github-readme-stats">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frederico27&show_icons=true&locale=en&layout=compact" alt="frederico27" /></p>
 
 </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frederico27&show_icons=true&locale=en" alt="frederico27" /></p>
- </p>
   
   </br>
   
