@@ -14,25 +14,25 @@
 </div>
 
 ---
-
 <div align="center">
 
 ### 📊 GitHub Stats
 
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=frederico27&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=frederico27&show_icons=true&theme=radical&hide_border=true" 
     alt="frederico27 stats" 
     width="49%" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=frederico27&show_icons=true&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=frederico27&show_icons=true&layout=compact&theme=radical&hide_border=true" 
     alt="frederico27 top languages" 
     width="49%" 
   />
 </p>
 
 </div>
+
 
 ---
 
