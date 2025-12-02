@@ -15,25 +15,13 @@
 
 ---
 
-<div align="center">
-
 ### 📊 GitHub Stats
-
-<p>
+<div align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=frederico27&show_icons=true&theme=radical&hide_border=true" 
-    alt="frederico27 stats" 
-    width="49%" 
+    src="https://streak-stats.demolab.com?user=frederico27&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
   />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=frederico27&layout=compact&theme=radical&hide_border=true" 
-    alt="frederico27 top languages" 
-    width="49%" 
-  />
-</p>
-
 </div>
-
 
 ---
 
