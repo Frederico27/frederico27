@@ -14,6 +14,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 ### 📊 GitHub Stats
@@ -25,7 +26,7 @@
     width="49%" 
   />
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=frederico27&show_icons=true&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=frederico27&layout=compact&theme=radical&hide_border=true" 
     alt="frederico27 top languages" 
     width="49%" 
   />
